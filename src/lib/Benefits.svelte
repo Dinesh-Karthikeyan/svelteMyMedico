@@ -10,14 +10,14 @@
         <div class="dabba">
             <div><img src={doctor} alt="doctor-icon" /></div>
             <div>
-                Fast, accurate and early diognosis from your symptoms guaranteed
-                by doctors
+                Fast, accurate and early diognosis guaranteed
+                by doctors made from your symptoms 
             </div>
         </div>
         <div class="dabba">
             <div><img src={locate} alt="locate icon" /></div>
             <div>
-                Anonymously ask your questions to doctors which you may feel
+                Anonymously ask your questions to a communtiy of certified doctors which you may feel
                 uncomfortable to share with your friends and family
             </div>
         </div>
