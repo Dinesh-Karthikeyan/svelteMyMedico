@@ -15,6 +15,6 @@
         color: inherit;
     }
     div {
-        margin: 6px;
+        margin-top: 6px;
     }
 </style>
